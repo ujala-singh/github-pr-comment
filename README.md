@@ -52,7 +52,5 @@ jobs:
 
 ---
 
-[MIT license]
 
-
-[MIT license]: LICENSE
+[Copyright (c) 2021 Ujala Singh - Released under MIT License]: LICENSE
